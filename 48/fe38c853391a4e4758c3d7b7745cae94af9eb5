@@ -1,0 +1,32 @@
+package.json
+  h_3c78e58b9c9b5d 1-11
+README.md
+  h_3c78e58b9c9b5d 1-85
+yarn.lock
+  h_3c78e58b9c9b5d 1-51
+.yarnrc.yml
+  h_3c78e58b9c9b5d 1-2
+.gitignore
+  h_3c78e58b9c9b5d 1-5
+packages/app/package.json
+  h_3c78e58b9c9b5d 1-8
+turbo.json
+  h_3c78e58b9c9b5d 1-4
+.yarn/patches/debug-npm-4.4.3.patch
+  h_3c78e58b9c9b5d 1-9
+repro.sh
+  h_3c78e58b9c9b5d 1-35
+packages/app/check.js
+  h_3c78e58b9c9b5d 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "48fe38c853391a4e4758c3d7b7745cae94af9eb5",
+  "prompts": {},
+  "humans": {
+    "h_3c78e58b9c9b5d": {
+      "author": "Phillip Huang <phillip.huang@phillip-hg3gpg69dp.clay.ts.net>"
+    }
+  }
+}
